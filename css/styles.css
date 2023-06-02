@@ -8,6 +8,10 @@
   z-index: 1;
 }
 
+.col .text{
+  margin-top: 35px;
+}
+
 .banner::after{
   content: "";
   position: absolute;
