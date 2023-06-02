@@ -1,5 +1,5 @@
 .banner{
-  background-image: url("../img/bg.jpeg");
+  background-image: url("../img/bg.jpg");
   padding: 25%;
   background-size: cover;
   background-position: top center;
@@ -21,7 +21,7 @@
 }
 
 .banner2{
-  background-image: url("../img/bg2.jpeg");
+  background-image: url("../img/bkg.jpg");
   padding: 25%;
   background-size: cover;
   background-position: top center;
